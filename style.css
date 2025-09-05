@@ -1,0 +1,11 @@
+a {
+  text-decoration: none;
+  font-size: 80px;
+  color: rgb(91, 182, 194);
+  background-color: pink;
+  border-radius: 999px;
+}
+a:hover {
+  color: papayawhip;
+  background-color: palegreen;
+}
